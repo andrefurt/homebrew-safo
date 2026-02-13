@@ -1,6 +1,6 @@
 cask "safo" do
-  version "0.2.1"
-  sha256 "aef7bce5e4c5ef879fcb2a4e5d2c52707a4e9b9f95ba5d86365ff4e5e23a62a8"
+  version "0.2.2"
+  sha256 "fdeef0846c79d6c665bc970f257aac2ca37e902699f6ad67ccf68292a77a614d"
 
   url "https://github.com/andrefurt/safo/releases/download/v#{version}/Safo-#{version}.zip"
   name "Safo"
